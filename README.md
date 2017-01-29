@@ -11,6 +11,10 @@ Mix between :
 * https://github.com/homerours/cordova-music-controls-plugin (Android)
 * https://github.com/shi11/RemoteControls/pull/32 (Android)
 
+#What's final result?
+
+![alt tag](http://i.imgur.com/3Ntltki.png)
+
 
 # Install
 
